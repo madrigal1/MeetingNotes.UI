@@ -1,0 +1,6 @@
+[submodule "meeting_notes_frontend"]
+	path = meeting_notes_frontend
+	url = https://github.com/madrigal1/meeting_notes_frontend
+[submodule "meeting_notes_backend"]
+	path = meeting_notes_backend
+	url = https://github.com/madrigal1/meeting_notes_backend
